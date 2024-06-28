@@ -1,6 +1,6 @@
 ##  My name is Mauricio Alvarez Leon, but everybody calls me mau
 ### If there's no genuine interest, then why bother?
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t76kectgghw72yl5q64wborkya&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31t76kectgghw72yl5q64wborkya&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t76kectgghw72yl5q64wborkya&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31t76kectgghw72yl5q64wborkya&redirect=true)
 
 
 ```golang
